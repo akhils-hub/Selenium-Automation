@@ -16,7 +16,7 @@ import com.aventstack.extentreports.reporter.ExtentReporter;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
-import BaseTestClass.BaseTestClass;
+import BaseTestClass.BaseTest;
 
 public class ExtentReportManager implements ITestListener {
 
@@ -68,7 +68,7 @@ public class ExtentReportManager implements ITestListener {
 		test.assignCategory(result.getMethod().getGroups());
 		test.log(Status.FAIL, "Test Case FAILED: " + result.getName());
 		try {
-			BaseTestClass baseTestInstance = (BaseTestClass) result.getInstance();
+			BaseTest baseTestInstance = (BaseTest) result.getInstance();
 			String captureScreenForReport = baseTestInstance.captureScreenshotForReport(result.getName());
 			test.addScreenCaptureFromPath(captureScreenForReport, "Failure Screen Evidence");
 

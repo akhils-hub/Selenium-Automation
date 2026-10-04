@@ -29,7 +29,7 @@ import com.aventstack.extentreports.Status;
 
 import utilities.ExtentReportManager;
 
-public class BaseTestClass {
+public class BaseTest {
 	protected WebDriver driver;
 	protected static Properties p;
 
@@ -60,6 +60,9 @@ public class BaseTestClass {
 		driver.manage().window().maximize();
 
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		
+		driver.get(p.getProperty("BASE_URL"));
+		
 		context.setAttribute("WebDriver", this.driver);
 
 	}

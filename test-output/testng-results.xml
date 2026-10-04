@@ -1,32 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-10-03T18:18:42 IST" name="Suite" finished-at="2026-10-03T18:19:06 IST" duration-ms="24362">
+  <suite started-at="2026-10-04T21:23:40 IST" name="Suite" finished-at="2026-10-04T21:25:02 IST" duration-ms="81537">
     <groups>
     </groups>
-    <test started-at="2026-10-03T18:18:42 IST" name="Test" finished-at="2026-10-03T18:19:06 IST" duration-ms="24362">
+    <test started-at="2026-10-04T21:23:40 IST" name="Test" finished-at="2026-10-04T21:25:02 IST" duration-ms="81537">
       <class name="testCases.Registration.TC_RF_001">
-        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:testCases.Registration.TC_RF_001@27d4a09]" started-at="2026-10-03T18:18:43 IST" name="setUp" finished-at="2026-10-03T18:18:47 IST" duration-ms="4728" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:testCases.Registration.TC_RF_001@740d2e78]" started-at="2026-10-04T21:23:42 IST" name="setUp" finished-at="2026-10-04T21:24:05 IST" duration-ms="22753" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@26d41711]]>
+                <![CDATA[org.testng.TestRunner@753fd7a1]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_registration_TC01()[pri:0, instance:testCases.Registration.TC_RF_001@27d4a09]" started-at="2026-10-03T18:18:47 IST" name="verify_registration_TC01" description="Verify New User Registration with Valid details" finished-at="2026-10-03T18:19:06 IST" duration-ms="18277" status="PASS">
+        <test-method signature="verify_registration_TC01()[pri:0, instance:testCases.Registration.TC_RF_001@740d2e78]" started-at="2026-10-04T21:24:05 IST" name="verify_registration_TC01" description="Verify New User Registration with Valid details" finished-at="2026-10-04T21:24:11 IST" duration-ms="5899" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_registration_TC01 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Registration.TC_RF_001@27d4a09]" started-at="2026-10-03T18:19:06 IST" name="tearDown" finished-at="2026-10-03T18:19:06 IST" duration-ms="649" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Registration.TC_RF_001@740d2e78]" started-at="2026-10-04T21:24:11 IST" name="tearDown" finished-at="2026-10-04T21:24:12 IST" duration-ms="671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.Registration.TC_RF_001 -->
+      <class name="testCases.Registration.TC_RF_004">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:testCases.Registration.TC_RF_004@29a0cdb]" started-at="2026-10-04T21:24:49 IST" name="setUp" finished-at="2026-10-04T21:24:58 IST" duration-ms="9756" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@753fd7a1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_registration_TC03()[pri:0, instance:testCases.Registration.TC_RF_004@29a0cdb]" started-at="2026-10-04T21:24:58 IST" name="verify_registration_TC03" description="Validation of Warning Messages Test." finished-at="2026-10-04T21:25:01 IST" duration-ms="2913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_registration_TC03 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Registration.TC_RF_004@29a0cdb]" started-at="2026-10-04T21:25:01 IST" name="tearDown" finished-at="2026-10-04T21:25:02 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Registration.TC_RF_004 -->
+      <class name="testCases.Registration.TC_RF_003">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:testCases.Registration.TC_RF_003@335b5620]" started-at="2026-10-04T21:24:12 IST" name="setUp" finished-at="2026-10-04T21:24:20 IST" duration-ms="8051" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@753fd7a1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_registration_TC03()[pri:0, instance:testCases.Registration.TC_RF_003@335b5620]" started-at="2026-10-04T21:24:20 IST" name="verify_registration_TC03" description="Verify user registration workflow including newsletter subscription mapping" finished-at="2026-10-04T21:24:48 IST" duration-ms="27865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_registration_TC03 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Registration.TC_RF_003@335b5620]" started-at="2026-10-04T21:24:48 IST" name="tearDown" finished-at="2026-10-04T21:24:49 IST" duration-ms="754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Registration.TC_RF_003 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -8,6 +8,8 @@
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="testCases.Registration.TC_RF_001" />
+			<class name="testCases.Registration.TC_RF_003" />
+			<class name="testCases.Registration.TC_RF_004" />
 		</classes>
 	</test> <!--
 	Test -->

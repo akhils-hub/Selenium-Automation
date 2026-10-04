@@ -6,9 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import BaseTestClass.BaseTestClass;
+import BaseTestClass.BaseTest;
 
-public class TestClass_1 extends BaseTestClass {
+public class TestClass_1 extends BaseTest {
 	
 
 	

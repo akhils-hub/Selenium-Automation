@@ -19,12 +19,12 @@ public class MyAccountPage extends BasePage{
 	
 	
 	public boolean isMyAccountIsDisplayed() {
-		System.out.println(myAccount.getText());
+	//	System.out.println(myAccount.getText());
 		return myAccount.isDisplayed();
 	}
 	
 	public boolean isLogoutButtonDisplayed() {
-		System.out.println(logoutButton.getText());
+		//System.out.println(logoutButton.getText());
 		return logoutButton.isDisplayed();
 	}
 	

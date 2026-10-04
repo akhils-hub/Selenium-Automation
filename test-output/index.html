@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,   1 passed</span>
+                    <span class="method-stats">3 methods,   3 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -104,6 +104,16 @@
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="testCases.Registration.TC_RF_001" class="method navigator-link" hash-for-method="verify_registration_TC01">verify_registration_TC01</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.Registration.TC_RF_003" class="method navigator-link" hash-for-method="verify_registration_TC03">verify_registration_TC03</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.Registration.TC_RF_004" class="method navigator-link" hash-for-method="verify_registration_TC03">verify_registration_TC03</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -135,6 +145,40 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.Registration.TC_RF_004</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verify_registration_TC03">
+                  </a> <!-- verify_registration_TC03 -->
+                  <span class="method-name">verify_registration_TC03</span>
+                  <em>
+(Validation of Warning Messages Test.)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.Registration.TC_RF_003</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verify_registration_TC03">
+                  </a> <!-- verify_registration_TC03 -->
+                  <span class="method-name">verify_registration_TC03</span>
+                  <em>
+(Verify user registration workflow including newsletter subscription mapping)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -151,6 +195,8 @@
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testCases.Registration.TC_RF_001&quot;/&gt;
+      &lt;class name=&quot;testCases.Registration.TC_RF_003&quot;/&gt;
+      &lt;class name=&quot;testCases.Registration.TC_RF_004&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -164,7 +210,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test (1 class)</span>
+                <span class="test-name">Test (3 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -190,16 +236,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(3);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'verify_registration_TC01')
-data.setCell(0, 2, 'testCases.Registration.TC_RF_001')
-data.setCell(0, 3, 18277);
+data.setCell(0, 1, 'verify_registration_TC03')
+data.setCell(0, 2, 'testCases.Registration.TC_RF_003')
+data.setCell(0, 3, 27865);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'verify_registration_TC01')
+data.setCell(1, 2, 'testCases.Registration.TC_RF_001')
+data.setCell(1, 3, 5899);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verify_registration_TC03')
+data.setCell(2, 2, 'testCases.Registration.TC_RF_004')
+data.setCell(2, 3, 2913);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 18 seconds</span>
+              <span class="suite-total-time">Total running time: 36 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -227,16 +281,46 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.Registration.TC_RF_001</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setUp(org.testng.TestRunner@26d41711)</span>
+                <span class="method-name">setUp(org.testng.TestRunner@753fd7a1)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_registration_TC01</span>
-                <span class="method-start">4761 ms</span>
+                <span class="method-start">22787 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">23057 ms</span>
+                <span class="method-start">28704 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.Registration.TC_RF_003</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(org.testng.TestRunner@753fd7a1)</span>
+                <span class="method-start">29380 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verify_registration_TC03</span>
+                <span class="method-start">37433 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">65308 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.Registration.TC_RF_004</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(org.testng.TestRunner@753fd7a1)</span>
+                <span class="method-start">66063 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verify_registration_TC03</span>
+                <span class="method-start">75822 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">78739 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

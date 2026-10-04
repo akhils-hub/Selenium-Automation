@@ -1,406 +1,279 @@
-2026-10-03 09:22:54 INFO  TC_RF_001:29 - Charome Driver Opening...!
-2026-10-03 09:22:58 INFO  TC_RF_001:42 - Charome Driver Opened...!
-2026-10-03 09:23:03 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 09:23:08 INFO  TC_RF_001:53 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 10:33:12 INFO  TC_RF_001:37 - Charome Driver Opening...!
-2026-10-03 10:33:17 INFO  TC_RF_001:50 - Charome Driver Opened...!
-2026-10-03 10:33:23 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 10:33:35 INFO  TC_RF_001:57 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+2026-10-04 09:56:57 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 09:57:22 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 09:57:28 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 09:57:30 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 09:57:30 INFO  RegisterAccountPage:54 - Register Account
+2026-10-04 09:57:30 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
+2026-10-04 09:57:31 ERROR TC_RF_003:58 - Test Case Failed: Cannot invoke "String.equalsIgnoreCase(String)" because "target" is null
+2026-10-04 09:57:32 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 10:00:49 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 10:00:53 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 10:01:00 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 10:01:01 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 10:01:01 INFO  RegisterAccountPage:54 - Register Account
+2026-10-04 10:01:02 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
+2026-10-04 10:01:02 ERROR TC_RF_003:58 - Test Case Failed: Cannot invoke "String.equalsIgnoreCase(String)" because "target" is null
+2026-10-04 10:01:03 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 10:44:45 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 10:44:49 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 10:44:59 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 10:45:01 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 10:45:01 INFO  RegisterAccountPage:54 - Register Account
+2026-10-04 10:45:01 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
+2026-10-04 10:45:02 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 10:45:05 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
+2026-10-04 10:45:06 INFO  TC_RF_003:171 - Successfully Nagivated to 'My Account Page'
+2026-10-04 10:45:07 INFO  TC_RF_003:171 - Successfully Logged Out...!
+2026-10-04 10:45:08 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 10:45:43 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 10:45:48 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 10:45:53 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 10:45:54 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 10:45:54 INFO  RegisterAccountPage:54 - Register Account
+2026-10-04 10:45:54 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
+2026-10-04 10:45:56 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 10:45:58 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
+2026-10-04 10:45:59 INFO  TC_RF_003:171 - Successfully Nagivated to 'My Account Page'
+2026-10-04 10:46:00 INFO  TC_RF_003:171 - Successfully Logged Out...!
+2026-10-04 10:46:00 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 10:47:47 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 10:47:52 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 10:47:57 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 10:47:57 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 10:47:57 INFO  RegisterAccountPage:54 - Register Account
+2026-10-04 10:47:57 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
+2026-10-04 10:47:59 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 10:48:01 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
+2026-10-04 10:48:01 INFO  TC_RF_003:171 - Successfully Nagivated to 'My Account Page'
+2026-10-04 10:48:02 INFO  TC_RF_003:171 - Successfully Logged Out...!
+2026-10-04 10:48:03 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 10:48:40 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 10:48:44 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 10:49:12 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 10:49:36 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 10:49:49 INFO  RegisterAccountPage:54 - Register Account
+2026-10-04 10:49:52 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
+2026-10-04 10:50:04 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 10:50:23 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
+2026-10-04 10:50:28 INFO  TC_RF_003:171 - Successfully Nagivated to 'My Account Page'
+2026-10-04 10:50:33 INFO  TC_RF_003:171 - Successfully Logged Out...!
+2026-10-04 10:51:20 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 13:30:13 INFO  TC_RF_004:171 - Chrome Driver Opening...!
+2026-10-04 13:30:21 INFO  TC_RF_004:171 - Charome Driver Opened...!
+2026-10-04 13:30:21 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
+2026-10-04 13:30:35 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
+2026-10-04 13:30:36 INFO  TC_RF_004:171 - User clicked on Register Link
+2026-10-04 13:30:38 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
+2026-10-04 13:30:38 INFO  TC_RF_004:171 - Validation of Warning messages Completed for Respective fields: 
+2026-10-04 13:30:41 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 13:33:01 INFO  TC_RF_004:171 - Chrome Driver Opening...!
+2026-10-04 13:33:05 INFO  TC_RF_004:171 - Charome Driver Opened...!
+2026-10-04 13:33:05 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
+2026-10-04 13:33:10 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
+2026-10-04 13:33:10 INFO  TC_RF_004:171 - User clicked on Register Link
+2026-10-04 13:33:10 ERROR TC_RF_004:51 - Test Case Failed: Cannot invoke "pageObjects.RegisterAccountPage.clickOnContinueButton()" because "this.registerAccountPage" is null
+2026-10-04 13:33:11 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 13:34:47 INFO  TC_RF_004:171 - Chrome Driver Opening...!
+2026-10-04 13:34:51 INFO  TC_RF_004:171 - Charome Driver Opened...!
+2026-10-04 13:34:52 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
+2026-10-04 13:34:59 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
+2026-10-04 13:35:01 INFO  TC_RF_004:171 - User clicked on Register Link
+2026-10-04 13:35:03 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
+2026-10-04 13:35:04 INFO  TC_RF_004:171 - Validation of Warning messages Completed for Respective fields: 
+2026-10-04 13:35:04 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 13:35:53 INFO  TC_RF_004:171 - Chrome Driver Opening...!
+2026-10-04 13:35:57 INFO  TC_RF_004:171 - Charome Driver Opened...!
+2026-10-04 13:35:57 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
+2026-10-04 13:36:36 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
+2026-10-04 13:36:57 INFO  TC_RF_004:171 - User clicked on Register Link
+2026-10-04 13:37:01 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
+2026-10-04 13:37:35 INFO  TC_RF_004:171 - Validation of Warning messages Completed for Respective fields: 
+2026-10-04 13:37:46 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 13:43:16 INFO  TC_RF_004:171 - Chrome Driver Opening...!
+2026-10-04 13:43:20 INFO  TC_RF_004:171 - Charome Driver Opened...!
+2026-10-04 13:43:21 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
+2026-10-04 13:43:25 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
+2026-10-04 13:43:25 INFO  TC_RF_004:171 - User clicked on Register Link
+2026-10-04 13:43:26 INFO  RegisterAccountPage:71 - Register Account
+2026-10-04 13:43:26 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
+2026-10-04 13:43:27 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 13:45:23 INFO  TC_RF_004:171 - Chrome Driver Opening...!
+2026-10-04 13:45:26 INFO  TC_RF_004:171 - Charome Driver Opened...!
+2026-10-04 13:45:27 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
+2026-10-04 13:45:30 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
+2026-10-04 13:45:31 INFO  TC_RF_004:171 - User clicked on Register Link
+2026-10-04 13:45:31 INFO  RegisterAccountPage:71 - Register Account
+2026-10-04 13:45:32 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
+2026-10-04 13:45:33 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 16:34:36 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 16:34:42 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 16:34:48 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 16:34:49 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 16:34:49 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 16:34:49 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 16:34:50 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 16:35:01 ERROR TC_RF_003:59 - Test Case Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
   (Session info: chrome=154.0.8037.93)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [52ccfdf061efa8f50ec533c8b52377e3, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54548}, goog:processID: 1104, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54548/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 52ccfdf061efa8f50ec533c8b52377e3
-2026-10-03 10:33:37 INFO  TC_RF_001:61 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 10:35:43 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 10:35:47 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 10:35:52 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 10:36:05 INFO  TC_RF_001:57 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+Command: [4ee57af2d37bf6fa7f16c7767629738d, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54345}, goog:processID: 2884, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54345/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ee57af2d37bf6fa7f16c7767629738d
+2026-10-04 16:35:02 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 16:36:42 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 16:36:46 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 16:36:52 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 16:36:54 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 16:36:54 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 16:36:54 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 16:36:55 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 16:37:07 ERROR TC_RF_003:59 - Test Case Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
   (Session info: chrome=154.0.8037.93)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [67141af4bdf959a007aa8201134eed8c, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54575}, goog:processID: 12988, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54575/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 67141af4bdf959a007aa8201134eed8c
-2026-10-03 10:36:05 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 10:36:05 INFO  TC_RF_001:109 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-276-10-36-05.png
-2026-10-03 10:36:06 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 10:38:52 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 10:38:55 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 10:39:02 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 10:39:15 INFO  TC_RF_001:57 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+Command: [95964b7156dd0c591f7c0867db62d024, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54874}, goog:processID: 604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54874/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 95964b7156dd0c591f7c0867db62d024
+2026-10-04 16:37:07 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 16:38:34 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 16:38:38 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 16:38:43 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 16:38:43 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 16:38:44 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 16:38:44 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 16:38:45 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 16:38:57 ERROR TC_RF_003:59 - Test Case Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
   (Session info: chrome=154.0.8037.93)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [11fc1797624bd5d3b3f43cb686e8acdc, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54628}, goog:processID: 4456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54628/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 11fc1797624bd5d3b3f43cb686e8acdc
-2026-10-03 10:39:15 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 10:39:15 INFO  TC_RF_001:109 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-10-39-15.png
-2026-10-03 10:39:16 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 11:13:57 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 11:14:19 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 11:14:25 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-11-14-24.png
-2026-10-03 11:14:25 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 11:14:25 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-11-14-25.png
-2026-10-03 11:14:38 INFO  TC_RF_001:58 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+Command: [9a4592d5fee9ab977e00118e7390b152, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55351}, goog:processID: 2320, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55351/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9a4592d5fee9ab977e00118e7390b152
+2026-10-04 16:38:57 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 16:50:24 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 16:50:28 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 16:50:32 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 16:50:32 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 16:50:32 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 16:50:32 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 16:50:34 ERROR TC_RF_003:59 - Test Case Failed: Cannot invoke "String.equals(Object)" because "value" is null
+2026-10-04 16:50:34 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 16:51:30 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 16:51:34 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 16:51:38 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 16:51:38 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 16:51:39 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 16:51:39 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 16:51:40 ERROR TC_RF_003:61 - Test Case Failed: Cannot invoke "String.equals(Object)" because "value" is null
+2026-10-04 16:51:40 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 16:52:20 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 16:52:24 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 16:52:28 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 16:52:28 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 16:52:28 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 16:52:28 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 16:52:40 ERROR TC_RF_003:62 - Test Case Failed: Cannot invoke "String.equals(Object)" because "value" is null
+2026-10-04 16:52:41 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 17:02:11 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 17:02:15 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 17:02:18 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 17:02:19 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 17:02:19 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 17:02:19 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 17:02:30 ERROR TC_RF_003:62 - Test Case Failed: Cannot invoke "String.equals(Object)" because "value" is null
+2026-10-04 17:02:31 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 17:03:30 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 17:03:34 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 17:03:39 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 17:03:40 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 17:03:40 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 17:03:40 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 17:04:02 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 17:04:13 ERROR TC_RF_003:62 - Test Case Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
   (Session info: chrome=154.0.8037.93)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [59adc962ce79649962eb07b0ded3cdbd, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54715}, goog:processID: 12532, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54715/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 59adc962ce79649962eb07b0ded3cdbd
-2026-10-03 11:14:39 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 11:14:39 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-11-14-39.png
-2026-10-03 11:14:43 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 11:16:40 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 11:16:44 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 11:16:50 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-11-16-49.png
-2026-10-03 11:16:51 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 11:16:51 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-11-16-51.png
-2026-10-03 11:17:03 INFO  TC_RF_001:58 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [0e497d9ffb2419877a46eac1f7b874fd, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54748}, goog:processID: 6540, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54748/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 0e497d9ffb2419877a46eac1f7b874fd
-2026-10-03 11:17:03 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 11:17:04 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-11-17-03.png
-2026-10-03 11:17:05 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 14:49:01 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 14:49:15 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 14:49:20 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-14-49-19.png
-2026-10-03 14:49:21 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 14:49:22 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-14-49-21.png
-2026-10-03 14:49:35 INFO  TC_RF_001:58 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [08d6fb090223e98cd367c4a23b3f5e7b, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55083}, goog:processID: 11008, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55083/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 08d6fb090223e98cd367c4a23b3f5e7b
-2026-10-03 14:49:35 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 14:49:35 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-14-49-35.png
-2026-10-03 14:49:37 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 14:50:20 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 14:50:21 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 14:50:26 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 14:50:27 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 14:50:32 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-14-50-31.png
-2026-10-03 14:50:34 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-14-50-33.png
-2026-10-03 14:50:34 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 14:50:35 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-14-50-34.png
-2026-10-03 14:50:35 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 14:50:36 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-14-50-35.png
-2026-10-03 14:50:48 INFO  TC_RF_001:58 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [1357dc6a1d9bda048c4416e34d5a9767, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55121}, goog:processID: 772, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55121/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 1357dc6a1d9bda048c4416e34d5a9767
-2026-10-03 14:50:48 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 14:50:48 INFO  TC_RF_001:58 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [adc212c64ed1809ae6e6dd319ff394d6, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55125}, goog:processID: 8744, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55125/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: adc212c64ed1809ae6e6dd319ff394d6
-2026-10-03 14:50:48 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 14:50:48 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-14-50-48.png
-2026-10-03 14:50:49 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-14-50-48.png
-2026-10-03 14:50:49 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 14:50:50 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 14:51:08 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 14:51:11 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 14:51:16 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-14-51-15.png
-2026-10-03 14:51:17 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 14:51:17 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-14-51-17.png
-2026-10-03 14:51:29 INFO  TC_RF_001:60 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [9bdcd214f31c2bf0b40c9c8c5919492b, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55169}, goog:processID: 7696, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55169/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 9bdcd214f31c2bf0b40c9c8c5919492b
-2026-10-03 14:51:29 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 14:51:29 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-14-51-29.png
-2026-10-03 14:51:32 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 14:58:45 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 14:58:49 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 14:58:54 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-14-58-53.png
-2026-10-03 14:58:55 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 14:58:55 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-14-58-55.png
-2026-10-03 14:59:07 INFO  TC_RF_001:60 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [e6dc7032d097e61729ba7d86648b7b6b, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55206}, goog:processID: 6256, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55206/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: e6dc7032d097e61729ba7d86648b7b6b
-2026-10-03 14:59:07 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 14:59:08 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-14-59-07.png
-2026-10-03 14:59:09 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:06:29 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 15:06:34 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 15:06:49 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-15-06-47.png
-2026-10-03 15:06:53 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:06:53 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-15-06-53.png
-2026-10-03 15:07:08 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [390cc116d3226cf2ab5546f51cc98e82, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55295}, goog:processID: 7572, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55295/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 390cc116d3226cf2ab5546f51cc98e82
-2026-10-03 15:07:08 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 15:07:08 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-15-07-08.png
-2026-10-03 15:07:10 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:08:36 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 15:08:40 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 15:08:46 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Registration_Link_2026-10-03-15-08-45.png
-2026-10-03 15:08:47 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:08:47 INFO  TC_RF_001:131 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/Register_AC_Page_2026-10-03-15-08-47.png
-2026-10-03 15:08:59 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [2f7250a9394053c80e209b9acf5f1d43, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55328}, goog:processID: 16184, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55328/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 2f7250a9394053c80e209b9acf5f1d43
-2026-10-03 15:08:59 ERROR TC_RF_001:97 - Test Failed: verify_registration_TC01 AND Capturing Screen...!
-2026-10-03 15:08:59 INFO  TC_RF_001:110 - Capture Screenshot Successfully and Saved in: C:\2277317\eclipse\eclipse-committers-oxygen-3a-win32-x86_64\eclipse\selenium\SeleniumAutomation/Screenshots/verify_registration_TC01_2026-10-03-15-08-59.png
-2026-10-03 15:09:00 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:15:09 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 15:15:12 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 15:15:18 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:15:31 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [58e9354b973324918fa72a11996efecb, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55363}, goog:processID: 16476, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55363/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 58e9354b973324918fa72a11996efecb
-2026-10-03 15:15:34 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:25:33 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 15:25:40 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 15:25:48 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:26:00 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [f90d2798a78d185501fc456e80c7bfa0, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55418}, goog:processID: 5104, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55418/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: f90d2798a78d185501fc456e80c7bfa0
-2026-10-03 15:26:01 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:30:45 INFO  TC_RF_001:38 - Charome Driver Opening...!
-2026-10-03 15:30:50 INFO  TC_RF_001:51 - Charome Driver Opened...!
-2026-10-03 15:30:56 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:31:08 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [93d2a6896dbb2f0dfdb3660e6187d371, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55460}, goog:processID: 9296, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55460/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 93d2a6896dbb2f0dfdb3660e6187d371
-2026-10-03 15:31:09 INFO  TC_RF_001:62 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:35:06 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 15:35:10 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 15:35:15 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:35:28 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [3c40f630e3bc20ceb47ce5724b1e04b5, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55498}, goog:processID: 12564, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55498/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 3c40f630e3bc20ceb47ce5724b1e04b5
-2026-10-03 15:35:28 INFO  BaseTestClass:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 15:35:29 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:37:50 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 15:37:55 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 15:38:01 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:38:13 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c8d1ad0787618ee83bf10fe70e7d33f0, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55542}, goog:processID: 8484, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55542/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: c8d1ad0787618ee83bf10fe70e7d33f0
-2026-10-03 15:38:13 INFO  BaseTestClass:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 15:38:14 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:43:20 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 15:43:25 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 15:43:31 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:43:43 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [fc87eaf151de23591215fa5be08e61b1, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55583}, goog:processID: 5852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55583/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: fc87eaf151de23591215fa5be08e61b1
-2026-10-03 15:43:44 INFO  BaseTestClass:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 15:43:44 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:46:07 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 15:46:12 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 15:46:18 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:46:30 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [330ea1f9b921ff9db96b60f1347bc484, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55619}, goog:processID: 4040, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55619/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 330ea1f9b921ff9db96b60f1347bc484
-2026-10-03 15:46:31 INFO  BaseTestClass:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 15:46:33 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:54:22 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 15:54:29 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 15:54:33 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:54:45 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [29c340c63ce5652b6089c4acdedda1ed, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55688}, goog:processID: 14624, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55688/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 29c340c63ce5652b6089c4acdedda1ed
-2026-10-03 15:54:45 INFO  TC_RF_001:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 15:54:47 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:57:12 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 15:57:16 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 15:57:20 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:57:33 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [d4c38e535a52d3435d65ac82691e4cb2, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55722}, goog:processID: 15188, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55722/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: d4c38e535a52d3435d65ac82691e4cb2
-2026-10-03 15:57:33 INFO  TC_RF_001:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 15:57:34 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 15:58:52 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 15:58:56 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 15:59:02 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 15:59:14 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [e92fd82f41cfc474df36bb0a6ffb4859, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55756}, goog:processID: 2388, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55756/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: e92fd82f41cfc474df36bb0a6ffb4859
-2026-10-03 15:59:15 INFO  TC_RF_001:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 15:59:17 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 16:00:00 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 16:00:04 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 16:00:09 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 16:00:22 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [08e2d7f956ff0262ac0dc66091bb1f5e, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55791}, goog:processID: 16556, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55791/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 08e2d7f956ff0262ac0dc66091bb1f5e
-2026-10-03 16:00:22 INFO  TC_RF_001:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 16:00:23 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 16:04:16 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 16:04:20 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 16:04:30 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 16:04:43 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [8cabcb4ac40a49ac2c7a2ca01d43949b, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55867}, goog:processID: 18224, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55867/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 8cabcb4ac40a49ac2c7a2ca01d43949b
-2026-10-03 16:04:43 INFO  TC_RF_001:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 16:04:46 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 16:05:30 INFO  TC_RF_001:39 - Charome Driver Opening...!
-2026-10-03 16:05:35 INFO  TC_RF_001:52 - Charome Driver Opened...!
-2026-10-03 16:05:40 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 16:05:52 INFO  TC_RF_001:59 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c1484317b842ac9902dd274a437b7a89, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55901}, goog:processID: 18060, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55901/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: c1484317b842ac9902dd274a437b7a89
-2026-10-03 16:05:52 INFO  TC_RF_001:152 - Screenshot archived successfully for ExtentReport.
-2026-10-03 16:05:53 INFO  TC_RF_001:65 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 18:15:34 INFO  TC_RF_001:171 - Charome Driver Opening...!
-2026-10-03 18:15:39 INFO  TC_RF_001:171 - Charome Driver Opened...!
-2026-10-03 18:15:39 INFO  TC_RF_001:171 - Navigating to target application home page.
-2026-10-03 18:15:45 INFO  TC_RF_001:171 - Clicking on the 'My Account' dropdown navigation header.
-2026-10-03 18:15:45 INFO  TC_RF_001:171 - Selecting the 'Register' account redirection link.
-2026-10-03 18:15:46 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 18:15:48 INFO  TC_RF_001:171 - Account Registration Completed for New User.
-2026-10-03 18:15:58 INFO  TC_RF_001:65 - Test Faild: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [7481645bc61d55a081ba6941d3bf3ab3, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56096}, goog:processID: 18044, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56096/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 7481645bc61d55a081ba6941d3bf3ab3
-2026-10-03 18:15:58 INFO  TC_RF_001:159 - Screenshot archived successfully for ExtentReport.
-2026-10-03 18:16:02 INFO  TC_RF_001:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-03 18:18:43 INFO  TC_RF_001:171 - Charome Driver Opening...!
-2026-10-03 18:18:47 INFO  TC_RF_001:171 - Charome Driver Opened...!
-2026-10-03 18:18:47 INFO  TC_RF_001:171 - Navigating to target application home page.
-2026-10-03 18:18:57 INFO  TC_RF_001:171 - Clicking on the 'My Account' dropdown navigation header.
-2026-10-03 18:18:57 INFO  TC_RF_001:171 - Selecting the 'Register' account redirection link.
-2026-10-03 18:18:59 INFO  RegisterAccountPage:49 - Register Account
-2026-10-03 18:19:03 INFO  TC_RF_001:171 - Account Registration Completed for New User.
-2026-10-03 18:19:06 INFO  TC_RF_001:171 - User Successfully Logged out..!
-2026-10-03 18:19:06 INFO  TC_RF_001:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+Command: [6adc7c85681f8d36dac2328db2862f15, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61402}, goog:processID: 8988, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61402/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6adc7c85681f8d36dac2328db2862f15
+2026-10-04 17:04:14 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 17:07:52 INFO  TC_RF_003:171 - Chrome Driver Opening...!
+2026-10-04 17:07:57 INFO  TC_RF_003:171 - Charome Driver Opened...!
+2026-10-04 17:08:01 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
+2026-10-04 17:08:02 INFO  TC_RF_003:171 - User Clicked on Register Link
+2026-10-04 17:08:02 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 17:08:02 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
+2026-10-04 17:08:25 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
+2026-10-04 17:08:28 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
+2026-10-04 17:08:28 INFO  TC_RF_003:171 - Successfully Navigated to 'My Account Page'
+2026-10-04 17:08:29 INFO  TC_RF_003:171 - Successfully Logged Out...!
+2026-10-04 17:08:29 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 18:54:30 INFO  TC_RF_004:174 - Chrome Driver Opening...!
+2026-10-04 18:54:45 INFO  TC_RF_004:174 - Charome Driver Opened...!
+2026-10-04 18:54:55 INFO  TC_RF_004:174 - Navigating to the Target Application Home Page
+2026-10-04 18:54:55 INFO  TC_RF_004:174 - User clicked on MyAccount Dropdown
+2026-10-04 18:54:56 INFO  TC_RF_004:174 - User clicked on Register Link
+2026-10-04 18:54:56 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 18:54:57 INFO  TC_RF_004:174 - Validating warning messages for Respective fields: 
+2026-10-04 18:54:57 INFO  TC_RF_004:174 - Validation of warning messages completed successfully for all respective fields.
+2026-10-04 18:54:58 INFO  TC_RF_004:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 19:39:25 INFO  TC_RF_004:174 - Chrome Driver Opening...!
+2026-10-04 19:39:33 INFO  TC_RF_004:174 - Charome Driver Opened...!
+2026-10-04 19:39:37 INFO  TC_RF_004:174 - Navigating to the Target Application Home Page
+2026-10-04 19:39:37 INFO  TC_RF_004:174 - User clicked on MyAccount Dropdown
+2026-10-04 19:39:38 INFO  TC_RF_004:174 - User clicked on Register Link
+2026-10-04 19:39:38 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 19:39:39 INFO  TC_RF_004:174 - Validating warning messages for Respective fields: 
+2026-10-04 19:39:40 INFO  RegisterAccountPage:156 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-04 19:39:40 INFO  TC_RF_004:174 - Validation of warning messages completed successfully for all respective fields.
+2026-10-04 19:39:40 INFO  TC_RF_004:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 19:49:07 INFO  TC_RF_004:174 - Chrome Driver Opening...!
+2026-10-04 19:49:11 INFO  TC_RF_004:174 - Charome Driver Opened...!
+2026-10-04 19:49:15 INFO  TC_RF_004:174 - Navigating to the Target Application Home Page
+2026-10-04 19:49:16 INFO  TC_RF_004:174 - User clicked on MyAccount Dropdown
+2026-10-04 19:49:16 INFO  TC_RF_004:174 - User clicked on Register Link
+2026-10-04 19:49:17 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 19:49:18 INFO  TC_RF_004:174 - Validating warning messages for Respective fields: 
+2026-10-04 19:49:18 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-04 19:49:18 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 105
+2026-10-04 19:49:18 INFO  TC_RF_004:174 - Validation of warning messages completed successfully for all respective fields.
+2026-10-04 19:49:19 INFO  TC_RF_004:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 21:23:42 INFO  TC_RF_001:174 - Chrome Driver Opening...!
+2026-10-04 21:24:00 INFO  TC_RF_001:174 - Charome Driver Opened...!
+2026-10-04 21:24:05 INFO  TC_RF_001:174 - Navigating to target application home page.
+2026-10-04 21:24:05 INFO  TC_RF_001:174 - Clicking on the 'My Account' dropdown navigation header.
+2026-10-04 21:24:06 INFO  TC_RF_001:174 - Selecting the 'Register' account redirection link.
+2026-10-04 21:24:07 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 21:24:10 INFO  TC_RF_001:174 - Account Registration Completed for New User.
+2026-10-04 21:24:11 INFO  TC_RF_001:174 - User Successfully Logged out..!
+2026-10-04 21:24:12 INFO  TC_RF_001:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 21:24:12 INFO  TC_RF_003:174 - Chrome Driver Opening...!
+2026-10-04 21:24:14 INFO  TC_RF_003:174 - Charome Driver Opened...!
+2026-10-04 21:24:20 INFO  TC_RF_003:174 - User Clicked on 'My Account' Dropdown
+2026-10-04 21:24:21 INFO  TC_RF_003:174 - User Clicked on Register Link
+2026-10-04 21:24:21 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 21:24:21 INFO  TC_RF_003:174 - Successfully navigated to Register Account Page...!
+2026-10-04 21:24:43 INFO  TC_RF_003:174 - User Entered All Mandatory Details...!
+2026-10-04 21:24:45 INFO  TC_RF_003:174 - Account Confirmation Page Displayed...!
+2026-10-04 21:24:46 INFO  TC_RF_003:174 - Successfully Navigated to 'My Account Page'
+2026-10-04 21:24:48 INFO  TC_RF_003:174 - Successfully Logged Out...!
+2026-10-04 21:24:49 INFO  TC_RF_003:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-04 21:24:49 INFO  TC_RF_004:174 - Chrome Driver Opening...!
+2026-10-04 21:24:51 INFO  TC_RF_004:174 - Charome Driver Opened...!
+2026-10-04 21:24:58 INFO  TC_RF_004:174 - Navigating to the Target Application Home Page
+2026-10-04 21:24:58 INFO  TC_RF_004:174 - User clicked on MyAccount Dropdown
+2026-10-04 21:25:00 INFO  TC_RF_004:174 - User clicked on Register Link
+2026-10-04 21:25:00 INFO  RegisterAccountPage:72 - Register Account
+2026-10-04 21:25:01 INFO  TC_RF_004:174 - Validating warning messages for Respective fields: 
+2026-10-04 21:25:01 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-04 21:25:01 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-04 21:25:01 INFO  TC_RF_004:174 - Validation of warning messages completed successfully for all respective fields.
+2026-10-04 21:25:02 INFO  TC_RF_004:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
