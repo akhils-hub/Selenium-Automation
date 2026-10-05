@@ -8,8 +8,8 @@
     <classes>
       <class name="testCases.Registration.TC_RF_001">
         <methods>
-          <include name="tearDown"/>
           <include name="setUp"/>
+          <include name="tearDown"/>
           <include name="verify_registration_TC01"/>
         </methods>
       </class> <!-- testCases.Registration.TC_RF_001 -->

@@ -1,279 +1,233 @@
-2026-10-04 09:56:57 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 09:57:22 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 09:57:28 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 09:57:30 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 09:57:30 INFO  RegisterAccountPage:54 - Register Account
-2026-10-04 09:57:30 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
-2026-10-04 09:57:31 ERROR TC_RF_003:58 - Test Case Failed: Cannot invoke "String.equalsIgnoreCase(String)" because "target" is null
-2026-10-04 09:57:32 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 10:00:49 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 10:00:53 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 10:01:00 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 10:01:01 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 10:01:01 INFO  RegisterAccountPage:54 - Register Account
-2026-10-04 10:01:02 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
-2026-10-04 10:01:02 ERROR TC_RF_003:58 - Test Case Failed: Cannot invoke "String.equalsIgnoreCase(String)" because "target" is null
-2026-10-04 10:01:03 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 10:44:45 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 10:44:49 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 10:44:59 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 10:45:01 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 10:45:01 INFO  RegisterAccountPage:54 - Register Account
-2026-10-04 10:45:01 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
-2026-10-04 10:45:02 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 10:45:05 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
-2026-10-04 10:45:06 INFO  TC_RF_003:171 - Successfully Nagivated to 'My Account Page'
-2026-10-04 10:45:07 INFO  TC_RF_003:171 - Successfully Logged Out...!
-2026-10-04 10:45:08 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 10:45:43 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 10:45:48 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 10:45:53 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 10:45:54 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 10:45:54 INFO  RegisterAccountPage:54 - Register Account
-2026-10-04 10:45:54 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
-2026-10-04 10:45:56 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 10:45:58 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
-2026-10-04 10:45:59 INFO  TC_RF_003:171 - Successfully Nagivated to 'My Account Page'
-2026-10-04 10:46:00 INFO  TC_RF_003:171 - Successfully Logged Out...!
-2026-10-04 10:46:00 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 10:47:47 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 10:47:52 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 10:47:57 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 10:47:57 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 10:47:57 INFO  RegisterAccountPage:54 - Register Account
-2026-10-04 10:47:57 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
-2026-10-04 10:47:59 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 10:48:01 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
-2026-10-04 10:48:01 INFO  TC_RF_003:171 - Successfully Nagivated to 'My Account Page'
-2026-10-04 10:48:02 INFO  TC_RF_003:171 - Successfully Logged Out...!
-2026-10-04 10:48:03 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 10:48:40 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 10:48:44 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 10:49:12 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 10:49:36 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 10:49:49 INFO  RegisterAccountPage:54 - Register Account
-2026-10-04 10:49:52 INFO  TC_RF_003:171 - Successfully nagivated to Register Account Page...!
-2026-10-04 10:50:04 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 10:50:23 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
-2026-10-04 10:50:28 INFO  TC_RF_003:171 - Successfully Nagivated to 'My Account Page'
-2026-10-04 10:50:33 INFO  TC_RF_003:171 - Successfully Logged Out...!
-2026-10-04 10:51:20 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 13:30:13 INFO  TC_RF_004:171 - Chrome Driver Opening...!
-2026-10-04 13:30:21 INFO  TC_RF_004:171 - Charome Driver Opened...!
-2026-10-04 13:30:21 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
-2026-10-04 13:30:35 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
-2026-10-04 13:30:36 INFO  TC_RF_004:171 - User clicked on Register Link
-2026-10-04 13:30:38 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
-2026-10-04 13:30:38 INFO  TC_RF_004:171 - Validation of Warning messages Completed for Respective fields: 
-2026-10-04 13:30:41 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 13:33:01 INFO  TC_RF_004:171 - Chrome Driver Opening...!
-2026-10-04 13:33:05 INFO  TC_RF_004:171 - Charome Driver Opened...!
-2026-10-04 13:33:05 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
-2026-10-04 13:33:10 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
-2026-10-04 13:33:10 INFO  TC_RF_004:171 - User clicked on Register Link
-2026-10-04 13:33:10 ERROR TC_RF_004:51 - Test Case Failed: Cannot invoke "pageObjects.RegisterAccountPage.clickOnContinueButton()" because "this.registerAccountPage" is null
-2026-10-04 13:33:11 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 13:34:47 INFO  TC_RF_004:171 - Chrome Driver Opening...!
-2026-10-04 13:34:51 INFO  TC_RF_004:171 - Charome Driver Opened...!
-2026-10-04 13:34:52 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
-2026-10-04 13:34:59 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
-2026-10-04 13:35:01 INFO  TC_RF_004:171 - User clicked on Register Link
-2026-10-04 13:35:03 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
-2026-10-04 13:35:04 INFO  TC_RF_004:171 - Validation of Warning messages Completed for Respective fields: 
-2026-10-04 13:35:04 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 13:35:53 INFO  TC_RF_004:171 - Chrome Driver Opening...!
-2026-10-04 13:35:57 INFO  TC_RF_004:171 - Charome Driver Opened...!
-2026-10-04 13:35:57 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
-2026-10-04 13:36:36 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
-2026-10-04 13:36:57 INFO  TC_RF_004:171 - User clicked on Register Link
-2026-10-04 13:37:01 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
-2026-10-04 13:37:35 INFO  TC_RF_004:171 - Validation of Warning messages Completed for Respective fields: 
-2026-10-04 13:37:46 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 13:43:16 INFO  TC_RF_004:171 - Chrome Driver Opening...!
-2026-10-04 13:43:20 INFO  TC_RF_004:171 - Charome Driver Opened...!
-2026-10-04 13:43:21 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
-2026-10-04 13:43:25 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
-2026-10-04 13:43:25 INFO  TC_RF_004:171 - User clicked on Register Link
-2026-10-04 13:43:26 INFO  RegisterAccountPage:71 - Register Account
-2026-10-04 13:43:26 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
-2026-10-04 13:43:27 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 13:45:23 INFO  TC_RF_004:171 - Chrome Driver Opening...!
-2026-10-04 13:45:26 INFO  TC_RF_004:171 - Charome Driver Opened...!
-2026-10-04 13:45:27 INFO  TC_RF_004:171 - Navigating to the Target Application Home Page
-2026-10-04 13:45:30 INFO  TC_RF_004:171 - User clicked on MyAccount Dropdown
-2026-10-04 13:45:31 INFO  TC_RF_004:171 - User clicked on Register Link
-2026-10-04 13:45:31 INFO  RegisterAccountPage:71 - Register Account
-2026-10-04 13:45:32 INFO  TC_RF_004:171 - Validating warning messages for Respective fields: 
-2026-10-04 13:45:33 INFO  TC_RF_004:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 16:34:36 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 16:34:42 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 16:34:48 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 16:34:49 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 16:34:49 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 16:34:49 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 16:34:50 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 16:35:01 ERROR TC_RF_003:59 - Test Case Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [4ee57af2d37bf6fa7f16c7767629738d, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54345}, goog:processID: 2884, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54345/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 4ee57af2d37bf6fa7f16c7767629738d
-2026-10-04 16:35:02 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 16:36:42 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 16:36:46 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 16:36:52 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 16:36:54 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 16:36:54 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 16:36:54 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 16:36:55 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 16:37:07 ERROR TC_RF_003:59 - Test Case Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [95964b7156dd0c591f7c0867db62d024, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54874}, goog:processID: 604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54874/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 95964b7156dd0c591f7c0867db62d024
-2026-10-04 16:37:07 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 16:38:34 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 16:38:38 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 16:38:43 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 16:38:43 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 16:38:44 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 16:38:44 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 16:38:45 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 16:38:57 ERROR TC_RF_003:59 - Test Case Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [9a4592d5fee9ab977e00118e7390b152, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55351}, goog:processID: 2320, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55351/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 9a4592d5fee9ab977e00118e7390b152
-2026-10-04 16:38:57 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 16:50:24 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 16:50:28 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 16:50:32 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 16:50:32 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 16:50:32 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 16:50:32 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 16:50:34 ERROR TC_RF_003:59 - Test Case Failed: Cannot invoke "String.equals(Object)" because "value" is null
-2026-10-04 16:50:34 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 16:51:30 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 16:51:34 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 16:51:38 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 16:51:38 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 16:51:39 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 16:51:39 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 16:51:40 ERROR TC_RF_003:61 - Test Case Failed: Cannot invoke "String.equals(Object)" because "value" is null
-2026-10-04 16:51:40 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 16:52:20 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 16:52:24 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 16:52:28 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 16:52:28 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 16:52:28 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 16:52:28 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 16:52:40 ERROR TC_RF_003:62 - Test Case Failed: Cannot invoke "String.equals(Object)" because "value" is null
-2026-10-04 16:52:41 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 17:02:11 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 17:02:15 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 17:02:18 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 17:02:19 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 17:02:19 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 17:02:19 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 17:02:30 ERROR TC_RF_003:62 - Test Case Failed: Cannot invoke "String.equals(Object)" because "value" is null
-2026-10-04 17:02:31 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 17:03:30 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 17:03:34 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 17:03:39 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 17:03:40 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 17:03:40 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 17:03:40 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 17:04:02 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 17:04:13 ERROR TC_RF_003:62 - Test Case Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
-  (Session info: chrome=154.0.8037.93)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [6adc7c85681f8d36dac2328db2862f15, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.93, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61402}, goog:processID: 8988, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61402/devtoo..., se:cdpVersion: 154.0.8037.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 6adc7c85681f8d36dac2328db2862f15
-2026-10-04 17:04:14 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 17:07:52 INFO  TC_RF_003:171 - Chrome Driver Opening...!
-2026-10-04 17:07:57 INFO  TC_RF_003:171 - Charome Driver Opened...!
-2026-10-04 17:08:01 INFO  TC_RF_003:171 - User Clicked on 'My Account' Dropdown
-2026-10-04 17:08:02 INFO  TC_RF_003:171 - User Clicked on Register Link
-2026-10-04 17:08:02 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 17:08:02 INFO  TC_RF_003:171 - Successfully navigated to Register Account Page...!
-2026-10-04 17:08:25 INFO  TC_RF_003:171 - User Entered All Mandatory Details...!
-2026-10-04 17:08:28 INFO  TC_RF_003:171 - Account Confirmation Page Displayed...!
-2026-10-04 17:08:28 INFO  TC_RF_003:171 - Successfully Navigated to 'My Account Page'
-2026-10-04 17:08:29 INFO  TC_RF_003:171 - Successfully Logged Out...!
-2026-10-04 17:08:29 INFO  TC_RF_003:171 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 18:54:30 INFO  TC_RF_004:174 - Chrome Driver Opening...!
-2026-10-04 18:54:45 INFO  TC_RF_004:174 - Charome Driver Opened...!
-2026-10-04 18:54:55 INFO  TC_RF_004:174 - Navigating to the Target Application Home Page
-2026-10-04 18:54:55 INFO  TC_RF_004:174 - User clicked on MyAccount Dropdown
-2026-10-04 18:54:56 INFO  TC_RF_004:174 - User clicked on Register Link
-2026-10-04 18:54:56 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 18:54:57 INFO  TC_RF_004:174 - Validating warning messages for Respective fields: 
-2026-10-04 18:54:57 INFO  TC_RF_004:174 - Validation of warning messages completed successfully for all respective fields.
-2026-10-04 18:54:58 INFO  TC_RF_004:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 19:39:25 INFO  TC_RF_004:174 - Chrome Driver Opening...!
-2026-10-04 19:39:33 INFO  TC_RF_004:174 - Charome Driver Opened...!
-2026-10-04 19:39:37 INFO  TC_RF_004:174 - Navigating to the Target Application Home Page
-2026-10-04 19:39:37 INFO  TC_RF_004:174 - User clicked on MyAccount Dropdown
-2026-10-04 19:39:38 INFO  TC_RF_004:174 - User clicked on Register Link
-2026-10-04 19:39:38 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 19:39:39 INFO  TC_RF_004:174 - Validating warning messages for Respective fields: 
-2026-10-04 19:39:40 INFO  RegisterAccountPage:156 - Privacy Policy Banner vertical Y-coordinate position is: 250
-2026-10-04 19:39:40 INFO  TC_RF_004:174 - Validation of warning messages completed successfully for all respective fields.
-2026-10-04 19:39:40 INFO  TC_RF_004:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 19:49:07 INFO  TC_RF_004:174 - Chrome Driver Opening...!
-2026-10-04 19:49:11 INFO  TC_RF_004:174 - Charome Driver Opened...!
-2026-10-04 19:49:15 INFO  TC_RF_004:174 - Navigating to the Target Application Home Page
-2026-10-04 19:49:16 INFO  TC_RF_004:174 - User clicked on MyAccount Dropdown
-2026-10-04 19:49:16 INFO  TC_RF_004:174 - User clicked on Register Link
-2026-10-04 19:49:17 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 19:49:18 INFO  TC_RF_004:174 - Validating warning messages for Respective fields: 
-2026-10-04 19:49:18 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical Y-coordinate position is: 250
-2026-10-04 19:49:18 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 105
-2026-10-04 19:49:18 INFO  TC_RF_004:174 - Validation of warning messages completed successfully for all respective fields.
-2026-10-04 19:49:19 INFO  TC_RF_004:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 21:23:42 INFO  TC_RF_001:174 - Chrome Driver Opening...!
-2026-10-04 21:24:00 INFO  TC_RF_001:174 - Charome Driver Opened...!
-2026-10-04 21:24:05 INFO  TC_RF_001:174 - Navigating to target application home page.
-2026-10-04 21:24:05 INFO  TC_RF_001:174 - Clicking on the 'My Account' dropdown navigation header.
-2026-10-04 21:24:06 INFO  TC_RF_001:174 - Selecting the 'Register' account redirection link.
-2026-10-04 21:24:07 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 21:24:10 INFO  TC_RF_001:174 - Account Registration Completed for New User.
-2026-10-04 21:24:11 INFO  TC_RF_001:174 - User Successfully Logged out..!
-2026-10-04 21:24:12 INFO  TC_RF_001:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 21:24:12 INFO  TC_RF_003:174 - Chrome Driver Opening...!
-2026-10-04 21:24:14 INFO  TC_RF_003:174 - Charome Driver Opened...!
-2026-10-04 21:24:20 INFO  TC_RF_003:174 - User Clicked on 'My Account' Dropdown
-2026-10-04 21:24:21 INFO  TC_RF_003:174 - User Clicked on Register Link
-2026-10-04 21:24:21 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 21:24:21 INFO  TC_RF_003:174 - Successfully navigated to Register Account Page...!
-2026-10-04 21:24:43 INFO  TC_RF_003:174 - User Entered All Mandatory Details...!
-2026-10-04 21:24:45 INFO  TC_RF_003:174 - Account Confirmation Page Displayed...!
-2026-10-04 21:24:46 INFO  TC_RF_003:174 - Successfully Navigated to 'My Account Page'
-2026-10-04 21:24:48 INFO  TC_RF_003:174 - Successfully Logged Out...!
-2026-10-04 21:24:49 INFO  TC_RF_003:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
-2026-10-04 21:24:49 INFO  TC_RF_004:174 - Chrome Driver Opening...!
-2026-10-04 21:24:51 INFO  TC_RF_004:174 - Charome Driver Opened...!
-2026-10-04 21:24:58 INFO  TC_RF_004:174 - Navigating to the Target Application Home Page
-2026-10-04 21:24:58 INFO  TC_RF_004:174 - User clicked on MyAccount Dropdown
-2026-10-04 21:25:00 INFO  TC_RF_004:174 - User clicked on Register Link
-2026-10-04 21:25:00 INFO  RegisterAccountPage:72 - Register Account
-2026-10-04 21:25:01 INFO  TC_RF_004:174 - Validating warning messages for Respective fields: 
-2026-10-04 21:25:01 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
-2026-10-04 21:25:01 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
-2026-10-04 21:25:01 INFO  TC_RF_004:174 - Validation of warning messages completed successfully for all respective fields.
-2026-10-04 21:25:02 INFO  TC_RF_004:174 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:18:06 INFO  TC_RF_001:180 - Chrome Driver Opening...!
+2026-10-05 22:18:37 INFO  TC_RF_001:180 - Charome Driver Opened...!
+2026-10-05 22:18:40 INFO  TC_RF_001:180 - Navigating to target application home page.
+2026-10-05 22:18:40 INFO  TC_RF_001:180 - Clicking on the 'My Account' dropdown navigation header.
+2026-10-05 22:18:41 INFO  TC_RF_001:180 - Selecting the 'Register' account redirection link.
+2026-10-05 22:18:42 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:18:42 INFO  TC_RF_001:180 - Successfully navigated to Register Account Page...!
+2026-10-05 22:18:45 INFO  TC_RF_001:180 - Account Registration Completed for New User.
+2026-10-05 22:18:46 INFO  TC_RF_001:180 - User Successfully Logged out..!
+2026-10-05 22:18:50 INFO  TC_RF_001:180 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:18:50 INFO  TC_RF_003:180 - Chrome Driver Opening...!
+2026-10-05 22:18:52 INFO  TC_RF_003:180 - Charome Driver Opened...!
+2026-10-05 22:18:58 INFO  TC_RF_003:180 - User Clicked on 'My Account' Dropdown
+2026-10-05 22:18:59 INFO  TC_RF_003:180 - Navigating to the Register Account Page.
+2026-10-05 22:18:59 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:18:59 INFO  TC_RF_003:180 - Successfully navigated to Register Account Page...!
+2026-10-05 22:19:00 INFO  TC_RF_003:180 - Entered All Mandatory Details...!
+2026-10-05 22:19:02 INFO  TC_RF_003:180 - Account Confirmation Page Displayed...!
+2026-10-05 22:19:03 INFO  TC_RF_003:180 - Navigating to the 'My Account' Page.
+2026-10-05 22:19:03 INFO  TC_RF_003:180 - Successfully Navigated to 'My Account' Page
+2026-10-05 22:19:03 INFO  TC_RF_003:180 - Successfully Logged Out...!
+2026-10-05 22:19:04 INFO  TC_RF_003:180 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:19:04 INFO  TC_RF_004:180 - Chrome Driver Opening...!
+2026-10-05 22:19:06 INFO  TC_RF_004:180 - Charome Driver Opened...!
+2026-10-05 22:19:11 INFO  TC_RF_004:180 - Navigating to the Target Application Home Page
+2026-10-05 22:19:12 INFO  TC_RF_004:180 - User clicked on MyAccount Dropdown
+2026-10-05 22:19:12 INFO  TC_RF_004:180 - Navigating to the Register Account Page.
+2026-10-05 22:19:12 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:19:12 INFO  TC_RF_004:180 - Validating warning messages for Respective fields: 
+2026-10-05 22:19:13 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-05 22:19:13 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-05 22:19:13 INFO  TC_RF_004:180 - Validation of warning messages completed successfully for all respective fields.
+2026-10-05 22:19:14 INFO  TC_RF_004:180 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:43:40 INFO  TC_RF_001:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 22:43:43 INFO  TC_RF_001:178 - Navigating to target application home page.
+2026-10-05 22:43:43 INFO  TC_RF_001:178 - Clicking on the 'My Account' dropdown navigation header.
+2026-10-05 22:43:44 INFO  TC_RF_001:178 - Selecting the 'Register' account redirection link.
+2026-10-05 22:43:44 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:43:44 INFO  TC_RF_001:178 - Successfully navigated to Register Account Page...!
+2026-10-05 22:43:48 INFO  TC_RF_001:178 - Account Registration Completed for New User.
+2026-10-05 22:43:49 INFO  TC_RF_001:178 - User Successfully Logged out..!
+2026-10-05 22:43:49 INFO  TC_RF_001:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:43:52 INFO  TC_RF_003:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 22:43:56 INFO  TC_RF_003:178 - User Clicked on 'My Account' Dropdown
+2026-10-05 22:43:57 INFO  TC_RF_003:178 - Navigating to the Register Account Page.
+2026-10-05 22:43:57 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:43:57 INFO  TC_RF_003:178 - Successfully navigated to Register Account Page...!
+2026-10-05 22:43:58 INFO  TC_RF_003:178 - Entered All Mandatory Details...!
+2026-10-05 22:43:59 INFO  TC_RF_003:178 - Account Confirmation Page Displayed...!
+2026-10-05 22:44:00 INFO  TC_RF_003:178 - Navigating to the 'My Account' Page.
+2026-10-05 22:44:00 INFO  TC_RF_003:178 - Successfully Navigated to 'My Account' Page
+2026-10-05 22:44:00 INFO  TC_RF_003:178 - Successfully Logged Out...!
+2026-10-05 22:44:01 INFO  TC_RF_003:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:44:03 INFO  TC_RF_004:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 22:44:10 INFO  TC_RF_004:178 - Navigating to the Target Application Home Page
+2026-10-05 22:44:10 INFO  TC_RF_004:178 - User clicked on MyAccount Dropdown
+2026-10-05 22:44:11 INFO  TC_RF_004:178 - Navigating to the Register Account Page.
+2026-10-05 22:44:12 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:44:13 INFO  TC_RF_004:178 - Validating warning messages for Respective fields: 
+2026-10-05 22:44:13 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-05 22:44:13 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-05 22:44:13 INFO  TC_RF_004:178 - Validation of warning messages completed successfully for all respective fields.
+2026-10-05 22:44:13 INFO  TC_RF_004:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:50:52 INFO  TC_RF_001:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 22:50:56 INFO  TC_RF_001:178 - Navigating to target application home page.
+2026-10-05 22:50:56 INFO  TC_RF_001:178 - Clicking on the 'My Account' dropdown navigation header.
+2026-10-05 22:50:56 INFO  TC_RF_001:178 - Selecting the 'Register' account redirection link.
+2026-10-05 22:50:57 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:50:57 INFO  TC_RF_001:178 - Successfully navigated to Register Account Page...!
+2026-10-05 22:51:00 INFO  TC_RF_001:178 - Account Registration Completed for New User.
+2026-10-05 22:51:02 INFO  TC_RF_001:178 - User Successfully Logged out..!
+2026-10-05 22:51:02 INFO  TC_RF_001:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:51:04 INFO  TC_RF_003:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 22:51:09 INFO  TC_RF_003:178 - Navigating to target application home page.
+2026-10-05 22:51:09 INFO  TC_RF_003:178 - User Clicked on 'My Account' Dropdown
+2026-10-05 22:51:09 INFO  TC_RF_003:178 - Navigating to the Register Account Page.
+2026-10-05 22:51:10 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:51:10 INFO  TC_RF_003:178 - Successfully navigated to Register Account Page...!
+2026-10-05 22:51:11 INFO  TC_RF_003:178 - Entered All Mandatory Details...!
+2026-10-05 22:51:12 INFO  TC_RF_003:178 - Account Confirmation Page Displayed...!
+2026-10-05 22:51:13 INFO  TC_RF_003:178 - Navigating to the 'My Account' Page.
+2026-10-05 22:51:13 INFO  TC_RF_003:178 - Successfully Navigated to 'My Account' Page
+2026-10-05 22:51:13 INFO  TC_RF_003:178 - Successfully Logged Out...!
+2026-10-05 22:51:14 INFO  TC_RF_003:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 22:51:16 INFO  TC_RF_004:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 22:51:20 INFO  TC_RF_004:178 - Navigating to the Target Application Home Page
+2026-10-05 22:51:21 INFO  TC_RF_004:178 - User clicked on MyAccount Dropdown
+2026-10-05 22:51:21 INFO  TC_RF_004:178 - Navigating to the Register Account Page.
+2026-10-05 22:51:21 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 22:51:22 INFO  TC_RF_004:178 - Validating warning messages for Respective fields: 
+2026-10-05 22:51:22 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-05 22:51:22 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-05 22:51:22 INFO  TC_RF_004:178 - Validation of warning messages completed successfully for all respective fields.
+2026-10-05 22:51:23 INFO  TC_RF_004:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:01:34 INFO  TC_RF_001:63 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:01:40 INFO  TC_RF_001:178 - Navigating to target application home page.
+2026-10-05 23:01:40 INFO  TC_RF_001:178 - Clicking on the 'My Account' dropdown navigation header.
+2026-10-05 23:01:41 INFO  TC_RF_001:178 - Selecting the 'Register' account redirection link.
+2026-10-05 23:01:42 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:01:42 INFO  TC_RF_001:178 - Successfully navigated to Register Account Page...!
+2026-10-05 23:01:45 INFO  TC_RF_001:178 - Account Registration Completed for New User.
+2026-10-05 23:01:46 INFO  TC_RF_001:178 - User Successfully Logged out..!
+2026-10-05 23:01:47 INFO  TC_RF_001:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:01:49 INFO  TC_RF_003:63 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:01:54 INFO  TC_RF_003:178 - Navigating to target application home page.
+2026-10-05 23:01:55 INFO  TC_RF_003:178 - User Clicked on 'My Account' Dropdown
+2026-10-05 23:01:55 INFO  TC_RF_003:178 - Navigating to the Register Account Page.
+2026-10-05 23:01:55 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:01:56 INFO  TC_RF_003:178 - Successfully navigated to Register Account Page...!
+2026-10-05 23:01:57 INFO  TC_RF_003:178 - Entered All Mandatory Details...!
+2026-10-05 23:01:59 INFO  TC_RF_003:178 - Account Confirmation Page Displayed...!
+2026-10-05 23:01:59 INFO  TC_RF_003:178 - Navigating to the 'My Account' Page.
+2026-10-05 23:01:59 INFO  TC_RF_003:178 - Successfully Navigated to 'My Account' Page
+2026-10-05 23:02:00 INFO  TC_RF_003:178 - Successfully Logged Out...!
+2026-10-05 23:02:00 INFO  TC_RF_003:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:02:03 INFO  TC_RF_004:63 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:02:08 INFO  TC_RF_004:178 - Navigating to the Target Application Home Page
+2026-10-05 23:02:08 INFO  TC_RF_004:178 - User clicked on MyAccount Dropdown
+2026-10-05 23:02:09 INFO  TC_RF_004:178 - Navigating to the Register Account Page.
+2026-10-05 23:02:09 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:02:10 INFO  TC_RF_004:178 - Validating warning messages for Respective fields: 
+2026-10-05 23:02:11 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-05 23:02:11 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-05 23:02:11 INFO  TC_RF_004:178 - Validation of warning messages completed successfully for all respective fields.
+2026-10-05 23:02:11 INFO  TC_RF_004:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:06:52 INFO  TC_RF_001:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:06:56 INFO  TC_RF_001:178 - Navigating to target application home page.
+2026-10-05 23:06:56 INFO  TC_RF_001:178 - Clicking on the 'My Account' dropdown navigation header.
+2026-10-05 23:06:56 INFO  TC_RF_001:178 - Selecting the 'Register' account redirection link.
+2026-10-05 23:06:57 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:06:57 INFO  TC_RF_001:178 - Successfully navigated to Register Account Page...!
+2026-10-05 23:07:00 INFO  TC_RF_001:178 - Account Registration Completed for New User.
+2026-10-05 23:07:01 INFO  TC_RF_001:178 - User Successfully Logged out..!
+2026-10-05 23:07:01 INFO  TC_RF_001:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:07:04 INFO  TC_RF_003:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:07:12 INFO  TC_RF_003:178 - Navigating to target application home page.
+2026-10-05 23:07:12 INFO  TC_RF_003:178 - User Clicked on 'My Account' Dropdown
+2026-10-05 23:07:13 INFO  TC_RF_003:178 - Navigating to the Register Account Page.
+2026-10-05 23:07:13 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:07:13 INFO  TC_RF_003:178 - Successfully navigated to Register Account Page...!
+2026-10-05 23:07:14 INFO  TC_RF_003:178 - Entered All Mandatory Details...!
+2026-10-05 23:07:16 INFO  TC_RF_003:178 - Account Confirmation Page Displayed...!
+2026-10-05 23:07:16 INFO  TC_RF_003:178 - Navigating to the 'My Account' Page.
+2026-10-05 23:07:16 INFO  TC_RF_003:178 - Successfully Navigated to 'My Account' Page
+2026-10-05 23:07:17 INFO  TC_RF_003:178 - Successfully Logged Out...!
+2026-10-05 23:07:17 INFO  TC_RF_003:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:07:21 INFO  TC_RF_004:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:07:25 INFO  TC_RF_004:178 - Navigating to the Target Application Home Page
+2026-10-05 23:07:25 INFO  TC_RF_004:178 - User clicked on MyAccount Dropdown
+2026-10-05 23:07:26 INFO  TC_RF_004:178 - Navigating to the Register Account Page.
+2026-10-05 23:07:26 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:07:27 INFO  TC_RF_004:178 - Validating warning messages for Respective fields: 
+2026-10-05 23:07:27 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-05 23:07:27 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-05 23:07:27 INFO  TC_RF_004:178 - Validation of warning messages completed successfully for all respective fields.
+2026-10-05 23:07:28 INFO  TC_RF_004:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:10:15 INFO  TC_RF_001:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:10:18 INFO  TC_RF_003:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:10:25 INFO  TC_RF_003:178 - Navigating to target application home page.
+2026-10-05 23:10:26 INFO  TC_RF_003:178 - User Clicked on 'My Account' Dropdown
+2026-10-05 23:10:27 INFO  TC_RF_003:178 - Navigating to the Register Account Page.
+2026-10-05 23:10:27 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:10:27 INFO  TC_RF_003:178 - Successfully navigated to Register Account Page...!
+2026-10-05 23:10:28 INFO  TC_RF_003:178 - Entered All Mandatory Details...!
+2026-10-05 23:10:30 INFO  TC_RF_003:178 - Account Confirmation Page Displayed...!
+2026-10-05 23:10:30 INFO  TC_RF_003:178 - Navigating to the 'My Account' Page.
+2026-10-05 23:10:30 INFO  TC_RF_003:178 - Successfully Navigated to 'My Account' Page
+2026-10-05 23:10:31 INFO  TC_RF_003:178 - Successfully Logged Out...!
+2026-10-05 23:10:32 INFO  TC_RF_003:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:10:34 INFO  TC_RF_004:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:10:43 INFO  TC_RF_004:178 - Navigating to the Target Application Home Page
+2026-10-05 23:10:43 INFO  TC_RF_004:178 - User clicked on MyAccount Dropdown
+2026-10-05 23:10:44 INFO  TC_RF_004:178 - Navigating to the Register Account Page.
+2026-10-05 23:10:44 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:10:45 INFO  TC_RF_004:178 - Validating warning messages for Respective fields: 
+2026-10-05 23:10:46 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-05 23:10:46 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-05 23:10:46 INFO  TC_RF_004:178 - Validation of warning messages completed successfully for all respective fields.
+2026-10-05 23:10:46 INFO  TC_RF_004:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:15:14 INFO  TC_RF_001:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:15:18 INFO  TC_RF_003:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:15:24 INFO  TC_RF_003:178 - Navigating to target application home page.
+2026-10-05 23:15:24 INFO  TC_RF_003:178 - User Clicked on 'My Account' Dropdown
+2026-10-05 23:15:25 INFO  TC_RF_003:178 - Navigating to the Register Account Page.
+2026-10-05 23:15:25 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:15:25 INFO  TC_RF_003:178 - Successfully navigated to Register Account Page...!
+2026-10-05 23:15:26 INFO  TC_RF_003:178 - Entered All Mandatory Details...!
+2026-10-05 23:15:28 INFO  TC_RF_003:178 - Account Confirmation Page Displayed...!
+2026-10-05 23:15:29 INFO  TC_RF_003:178 - Navigating to the 'My Account' Page.
+2026-10-05 23:15:29 INFO  TC_RF_003:178 - Successfully Navigated to 'My Account' Page
+2026-10-05 23:15:30 INFO  TC_RF_003:178 - Successfully Logged Out...!
+2026-10-05 23:15:30 INFO  TC_RF_003:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:15:34 INFO  TC_RF_004:178 - Chrome Driver Initialization completed successfully.
+2026-10-05 23:15:49 INFO  TC_RF_004:178 - Navigating to the Target Application Home Page
+2026-10-05 23:15:49 INFO  TC_RF_004:178 - User clicked on MyAccount Dropdown
+2026-10-05 23:15:51 INFO  TC_RF_004:178 - Navigating to the Register Account Page.
+2026-10-05 23:15:51 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:15:52 INFO  TC_RF_004:178 - Validating warning messages for Respective fields: 
+2026-10-05 23:15:52 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-05 23:15:52 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-05 23:15:52 INFO  TC_RF_004:178 - Validation of warning messages completed successfully for all respective fields.
+2026-10-05 23:15:54 INFO  TC_RF_004:178 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:17:52 INFO  TC_RF_001:63 - ChromeDriver: chrome on windows (6df4464ab2e78e11e9f425225074baa5) Driver Initialization completed successfully.
+2026-10-05 23:17:55 INFO  TC_RF_001:178 - Navigating to target application home page.
+2026-10-05 23:17:55 INFO  TC_RF_001:178 - Clicking on the 'My Account' dropdown navigation header.
+2026-10-05 23:17:56 INFO  TC_RF_001:178 - Selecting the 'Register' account redirection link.
+2026-10-05 23:17:56 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:17:56 INFO  TC_RF_001:178 - Successfully navigated to Register Account Page...!
+2026-10-05 23:17:59 INFO  TC_RF_001:178 - Account Registration Completed for New User.
+2026-10-05 23:18:00 INFO  TC_RF_001:178 - User Successfully Logged out..!
+2026-10-05 23:18:01 INFO  TC_RF_001:74 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:18:03 INFO  TC_RF_003:63 - ChromeDriver: chrome on windows (714495ee67d04095b01034a5e4ca57c2) Driver Initialization completed successfully.
+2026-10-05 23:18:08 INFO  TC_RF_003:178 - Navigating to target application home page.
+2026-10-05 23:18:08 INFO  TC_RF_003:178 - User Clicked on 'My Account' Dropdown
+2026-10-05 23:18:09 INFO  TC_RF_003:178 - Navigating to the Register Account Page.
+2026-10-05 23:18:09 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:18:09 INFO  TC_RF_003:178 - Successfully navigated to Register Account Page...!
+2026-10-05 23:18:11 INFO  TC_RF_003:178 - Entered All Mandatory Details...!
+2026-10-05 23:18:14 INFO  TC_RF_003:178 - Account Confirmation Page Displayed...!
+2026-10-05 23:18:15 INFO  TC_RF_003:178 - Navigating to the 'My Account' Page.
+2026-10-05 23:18:15 INFO  TC_RF_003:178 - Successfully Navigated to 'My Account' Page
+2026-10-05 23:18:17 INFO  TC_RF_003:178 - Successfully Logged Out...!
+2026-10-05 23:18:18 INFO  TC_RF_003:74 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!
+2026-10-05 23:18:23 INFO  TC_RF_004:63 - ChromeDriver: chrome on windows (e34f4cdf14cc476130eb501f72233f17) Driver Initialization completed successfully.
+2026-10-05 23:18:28 INFO  TC_RF_004:178 - Navigating to the Target Application Home Page
+2026-10-05 23:18:28 INFO  TC_RF_004:178 - User clicked on MyAccount Dropdown
+2026-10-05 23:18:31 INFO  TC_RF_004:178 - Navigating to the Register Account Page.
+2026-10-05 23:18:32 INFO  RegisterAccountPage:72 - Register Account
+2026-10-05 23:18:33 INFO  TC_RF_004:178 - Validating warning messages for Respective fields: 
+2026-10-05 23:18:33 INFO  RegisterAccountPage:164 - Privacy Policy Banner vertical X-coordinate position is: 105
+2026-10-05 23:18:33 INFO  RegisterAccountPage:165 - Privacy Policy Banner vertical Y-coordinate position is: 250
+2026-10-05 23:18:33 INFO  TC_RF_004:178 - Validation of warning messages completed successfully for all respective fields.
+2026-10-05 23:18:34 INFO  TC_RF_004:74 - ChromeDriver: chrome on windows (null) -- Driver is closed Successfully...!

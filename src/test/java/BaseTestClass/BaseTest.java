@@ -34,14 +34,14 @@ public class BaseTest {
 	protected static Properties p;
 
 	// Centralized Logger instance accessible across your framework classes
-	protected Logger log = LogManager.getLogger(this.getClass());
+	protected final Logger log = LogManager.getLogger(this.getClass());
 
 	@BeforeClass
 	public void setUp(ITestContext context) throws IOException {
 
 		// System.out.println("Charome Driver Opening...!");
 		//log.info("Charome Driver Opening...!");
-		logStep("Chrome Driver Opening...!");
+		//logStep("Chrome Driver Opening...!");
 		ChromeOptions options = new ChromeOptions();
 
 		// Anti-bot flags to help bypass CAPTCHA issues
@@ -53,18 +53,16 @@ public class BaseTest {
 
 		// Initialize driver with options
 		driver = new ChromeDriver(options);
-		// System.out.println("Charome Driver Opened...!");
-		//log.info("Charome Driver Opened...!");
-		logStep("Charome Driver Opened...!");
-		
 		driver.manage().window().maximize();
-
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+     	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		
-		driver.get(p.getProperty("BASE_URL"));
-		
+     	//1. build a bridge between your test execution classes and your background ExtentReportManager listener.
 		context.setAttribute("WebDriver", this.driver);
 
+		// 2. Call log steps AFTER the listener maps are completely ready
+	    log.info( driver +" Driver Initialization completed successfully.");
+	    
+	    driver.get(p.getProperty("BASE_URL"));
 	}
 
 	@AfterClass
@@ -73,16 +71,22 @@ public class BaseTest {
 			driver.quit();
 			// System.out.println(driver + " -- Driver is closed");
 			//log.info(driver + " -- Driver is closed Successfully...!");
-			logStep(driver + " -- Driver is closed Successfully...!");
+			log.info(driver + " -- Driver is closed Successfully...!");
 		} else {
 			log.error(driver + " is not closed.....!");
 		}
 	}
 
+	
+	
 	public String randomeAlphaNumberic() {
 		String generatedstring = RandomStringUtils.randomAlphabetic(3);
 		String generatednumber = RandomStringUtils.randomNumeric(3);
 		return (generatedstring + generatednumber);
+	}
+	
+	public String randomEmailGeneration() {
+		return (randomeAlphaNumberic() + "@gmail.com");
 	}
 
 	static {
@@ -179,5 +183,5 @@ public class BaseTest {
 			ExtentReportManager.test.log(Status.INFO, message);
 		}
 	}
-
+	
 }

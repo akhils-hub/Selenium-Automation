@@ -15,7 +15,7 @@ public class TC_RF_004 extends BaseTest {
 	MyAccountPage myAccountPage;
 
 	@Test(description = "Validation of Warning Messages Test.")
-	public void verify_registration_TC03() {
+	public void verify_registration_TC04() {
 
 		try {
 			logStep("Navigating to the Target Application Home Page");
@@ -25,7 +25,7 @@ public class TC_RF_004 extends BaseTest {
 			homePage.clickOnMyAccountDropDown();
 			logStep("User clicked on MyAccount Dropdown");
 			registerAccountPage = homePage.clickOnRegisterLink();
-			logStep("User clicked on Register Link");
+			logStep("Navigating to the Register Account Page.");
 
 			Assert.assertTrue(registerAccountPage.isRegisterAccountPageDisplayed(),
 					"Failed to Nagivate Register Account Page");

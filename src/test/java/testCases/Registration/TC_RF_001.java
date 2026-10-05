@@ -36,11 +36,14 @@ public class TC_RF_001 extends BaseTest {
 			logStep("Selecting the 'Register' account redirection link.");
 			registerAccountPage = homePage.clickOnRegisterLink();
 
-			registerAccountPage = new RegisterAccountPage(driver);
+			//No Need below line since 'RegisterAccountPage' is already returned above line.
+		//	registerAccountPage = new RegisterAccountPage(driver);
 
 			Assert.assertTrue(registerAccountPage.isRegisterAccountPageDisplayed(),
 					"Validation Failed: Registration Account Failed to Load");
 			// captureScreen("Register_AC_Page");
+			logStep("Successfully navigated to Register Account Page...!");
+			
 			registerAccountPage.setFirstName("ABBbba123");
 			registerAccountPage.setLastName("SAIIIEE");
 			registerAccountPage.setEmail(randomeAlphaNumberic() + "@gmail.com");
@@ -56,13 +59,14 @@ public class TC_RF_001 extends BaseTest {
 
 			myAccountPage = registerAccountPage.clickOnAcContinueButton();
 
-			myAccountPage = new MyAccountPage(driver);
+			//myAccountPage = new MyAccountPage(driver); //(No need this line.)
 
 			Assert.assertTrue(myAccountPage.isMyAccountIsDisplayed(),
 					"Validation Failed: 'My Account' Header is missing after new user Registration.");
 			Assert.assertTrue(myAccountPage.isLogoutButtonDisplayed(),
 					"Validation Failed: 'Logout' Option is missing in My Account Page.");
 			myAccountPage.clickOnLogoutButton();
+			
 			logStep("User Successfully Logged out..!");
 		} catch (Exception e) {
 			log.info("Test Faild: " + e.getMessage());
